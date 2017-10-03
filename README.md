@@ -1,7 +1,7 @@
 # TheWarmup
 This game is meant as a warmup for playing MOBAs or RTS games by tuning your reflexes. It was made in Unreal Engine 4 entirely using UE4 Blueprints without a single line of code. 
 
-To play download the game <a href="https://drive.google.com/open?id=0B7q_xJk0vqRHV2xLZjl2NURHY1k">here</a>. The exe to play can be found in JunaryGame\Binaries\Win64
+To play download the game <a href="https://drive.google.com/uc?export=download&id=0B7q_xJk0vqRHV2xLZjl2NURHY1k">here</a> and extract the files.
 
 <h3>How to Play:</h3>
 
