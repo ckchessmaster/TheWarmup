@@ -1,5 +1,7 @@
 # TheWarmup
-This game is meant as a warmup for playing MOBAs or RTS games by tuning your reflexes. It was made in Unreal Engine 4 entirely useing UE4 Blueprints without a single line of code.
+This game is meant as a warmup for playing MOBAs or RTS games by tuning your reflexes. It was made in Unreal Engine 4 entirely useing UE4 Blueprints without a single line of code. 
+
+To play download the JanuaryGame.zip and extract it. The exe to play can be found in JunaryGame\Binaries\Win64
 
 <h3>How to Play:</h3>
 
