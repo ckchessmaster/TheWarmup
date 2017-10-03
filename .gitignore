@@ -1,3 +1,6 @@
+#Custom ignores
+*.zip
+
 # Visual Studio 2015 user specific files
 .vs/
 
